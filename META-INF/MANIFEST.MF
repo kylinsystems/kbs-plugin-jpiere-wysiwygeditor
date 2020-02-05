@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: KBS Plugins : JPiere WYSIWYG Editor
+Bundle-Name: KBS Plugin : JPiere WYSIWYG Editor
 Bundle-SymbolicName: com.kylinsystems.kbs.plugins.jpiere.wysiwygeditor;singleton:=true
 Bundle-Version: 7.1.0.qualifier
 Bundle-Vendor: KBS
