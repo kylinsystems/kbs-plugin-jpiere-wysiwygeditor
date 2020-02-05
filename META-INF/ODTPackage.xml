@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<KSYS_IDEMPIERE>
+  <ODTPackage ID="1000001" IsImportedODT="Y" ObjectType="ODT_APP" UUID="309f7fd3-520c-4b9f-acff-4700fc7e3374">
+    <Name>
+      <![CDATA[kbs.plugins.jpiere.wysiwygeditor]]>
+    </Name>
+    <Description>
+      <![CDATA[kbs.plugins.jpiere.wysiwygeditor]]>
+    </Description>
+    <ODTVersion ID="1000001" UUID="539b74c3-21d2-4458-a3fd-895c95763586" VersionNo="1" Version_Status="Draft">
+      <Name>
+        <![CDATA[kbs.plugins.jpiere.wysiwygeditor-V1]]>
+      </Name>
+      <Description/>
+      <SystemVersion/>
+      <ODTObjectData AD_Table_ID="882" ID="1000226" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="0c5375ae-0e00-43af-8941-e176f54a39c6" Record_ID="1000002" SeqNo="10" UUID="17a245c2-a69a-47a4-9534-0acebdbea037">
+        <Name>
+          <![CDATA[AD_EntityType-1000002]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="15592" ID="1009177" UUID="76b8eadd-0770-423a-b5ee-7c04981bb289">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15593" ID="1009178" UUID="4d4372a8-7298-41bc-888b-f5b08eea7837">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15594" ID="1009179" UUID="92c55a7e-c60f-4be7-91db-4420997352a0">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15595" ID="1009180" UUID="bd2b18eb-63d7-4dc0-a778-95f66f45b3ba">
+          <NewValue>1000002</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15596" ID="1009181" UUID="3492ea42-3bc3-47e3-9f03-6cae427a43aa">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15597" ID="1009182" UUID="72aa921f-01f3-4987-90eb-2de90a621213">
+          <NewValue>2020-02-05 10:35:39</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15598" ID="1009183" UUID="d801ee8e-f1e7-4dab-9781-d1ba3872c672">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15599" ID="1009184" UUID="1e5532e8-e85b-4798-9049-0693785d227a">
+          <NewValue>2020-02-05 10:35:39</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15600" ID="1009185" UUID="e9429d39-956e-4769-a8f6-5f5c6b2aec60">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15601" ID="1009186" UUID="1ca73882-066c-4a68-9810-b6882acf443b">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15602" ID="1009187" UUID="fcd99eb9-2e3f-4a93-a33d-b6b23bdea366">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15603" ID="1009188" UUID="93355cc6-7a04-4144-805f-7809bf2f0d92">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15604" ID="1009189" UUID="52e3d401-6005-4294-8a3e-4a42e43b4f6a">
+          <NewValue>1</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15605" ID="1009190" UUID="8a4d21d8-68f2-45d7-b409-001170b56670">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15606" ID="1009191" UUID="8c472018-e024-49df-9508-b6a59f196c35">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15607" ID="1009192" UUID="e063a728-e202-4ab7-8269-33b0947b8311">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60397" ID="1009193" UUID="5d639017-d100-4110-b00e-606ecc089e96">
+          <NewValue>0c5375ae-0e00-43af-8941-e176f54a39c6</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="50009" ID="1000222" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="258594c2-be69-495e-914b-17a2b60d4e8c" Record_ID="1000000" SeqNo="20" UUID="d3845421-d777-4ffc-ba56-e05e1dbc7ab1">
+        <Name>
+          <![CDATA[AD_SysConfig-1000000]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="50187" ID="1009086" UUID="16375f33-e30b-491e-b300-8bba8a6e015b">
+          <NewValue>1000000</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50188" ID="1009087" UUID="75ac53bc-a9d4-41b3-b90f-aa6c9bc32876">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50189" ID="1009088" UUID="4916d650-4847-4ee1-808b-5e8adf6e91f1">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50190" ID="1009089" UUID="7a267277-f19b-42c0-a9ca-5aa8d6ea9e55">
+          <NewValue>2020-02-05 09:31:02</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50191" ID="1009090" UUID="99651f53-bc5d-4c49-b60c-01d0727f5859">
+          <NewValue>2020-02-05 09:31:02</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50192" ID="1009091" UUID="979fa85e-3438-4e17-ad34-1ac14ae0ba9f">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50193" ID="1009092" UUID="a52e672b-ea17-4a1f-bf35-c92ccccc100c">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50194" ID="1009093" UUID="45ba556c-5e33-4089-8813-1714f93b6fc2">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50195" ID="1009094" UUID="d1393c80-9359-42f6-87d3-008fce97772d">
+          <NewValue>JPIERE_CKEDITOR_IMAGE_PATH</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50196" ID="1009095" UUID="8fcc2209-2330-4612-b625-97927066bd6a">
+          <NewValue>images/client;images/test;images</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50197" ID="1009096" UUID="43927208-584f-44af-ac40-7c247296b45b">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53271" ID="1009098" UUID="f3e370de-3e2e-4f89-a978-c4d4af69dafc">
+          <NewValue>C</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60502" ID="1009099" UUID="e61371e3-a942-4841-a07f-11cafef168cb">
+          <NewValue>258594c2-be69-495e-914b-17a2b60d4e8c</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="53270" ID="1009097" UUID="7378f621-0faa-4f8d-b7a5-435821ee7150">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="376" ID="1000223" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="6ddf1abd-aa03-40af-b381-938640043e08" Record_ID="1000000" SeqNo="30" UUID="edc3908d-6b48-4031-9ed6-74dd97305785">
+        <Name>
+          <![CDATA[AD_Form-1000000]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="4596" ID="1009100" UUID="8b90574b-016e-4ad8-b1e2-fd009ca04294">
+          <NewValue>1000000</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4597" ID="1009101" UUID="c2f8d6f0-0e08-4aaf-9ac1-028a1757fbfd">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4598" ID="1009102" UUID="3dd7d579-9505-4f59-bf42-cf219b1e809e">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4599" ID="1009103" UUID="8513a56c-96ad-4d15-875d-959e8bee4db0">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4600" ID="1009104" UUID="a7c61b29-a9c9-4c45-91ee-58be719dc08f">
+          <NewValue>2020-02-05 09:31:03</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4601" ID="1009105" UUID="c781bf4e-e518-405a-b20f-878a1bd3cffd">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4602" ID="1009106" UUID="8c1e571c-c41f-4dd9-8640-1c174799409a">
+          <NewValue>2020-02-05 09:35:22</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4603" ID="1009107" UUID="313f7d0d-009c-4f57-be0f-eecd77b27027">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4604" ID="1009108" UUID="8020c42b-900d-4f41-8d96-a5c4cbd99da3">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4605" ID="1009109" UUID="f9c66b8a-fe86-4e4b-8382-435d2875556f">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4606" ID="1009110" UUID="6fb65794-9e6a-4126-bdd9-65a0a6cb5065">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4607" ID="1009111" UUID="e8f04332-740a-4022-a0e9-e38aab296150">
+          <NewValue>jpiere.plugin.wysiwygeditor.form.JPiereCKEditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="5791" ID="1009112" UUID="775519f0-10ae-4576-9063-00dc79a9d373">
+          <NewValue>7</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="12738" ID="1009114" UUID="83969950-3671-4f2e-91b1-4271f7d3edf4">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="13022" ID="1009115" UUID="9d2118d0-e995-49c8-9b1c-e6fbaca52e96">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60414" ID="1009116" UUID="3eb91aa7-cf4b-45df-84f1-292e9bc0d71a">
+          <NewValue>6ddf1abd-aa03-40af-b381-938640043e08</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="208590" ID="1009117" UUID="82f14c82-3ce1-4ee9-b1dc-295e8bb8797f">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="7708" ID="1009113" UUID="86009d05-b131-4df2-b6e8-85d26c0335eb">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="284" ID="1000224" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="6ebb0b68-5e0b-4652-a644-83fd13f01e3e" Record_ID="1000008" SeqNo="40" UUID="0b67c16a-b203-4821-a219-fe846ea2e128">
+        <Name>
+          <![CDATA[AD_Process-1000008]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="2801" ID="1009118" UUID="9202933b-740e-469c-a8d0-a18f8a5d095f">
+          <NewValue>1000008</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2802" ID="1009119" UUID="11bf7e43-3fc4-4761-95c4-13db8214a4f1">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2804" ID="1009121" UUID="d96f6de6-5bb4-4c67-8c8b-ffe80c56fa45">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2803" ID="1009120" UUID="eb81cbb9-b0ed-4aba-bfe1-6977164cc19a">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2805" ID="1009122" UUID="c13a3ec5-377c-49e8-a1f8-f089db85df3a">
+          <NewValue>2020-02-05 09:31:03</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2807" ID="1009124" UUID="3f4e07be-9ba0-4185-a73f-c8ea717d7fae">
+          <NewValue>2020-02-05 09:33:43</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2809" ID="1009126" UUID="25f00655-d9ba-42fc-944d-3369577bc04d">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2810" ID="1009127" UUID="59ce3796-ea30-4515-8d14-4e4c9fb4d72e">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="5790" ID="1009135" UUID="45917b49-af53-4b22-9d68-87edb838023b">
+          <NewValue>7</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6652" ID="1009137" UUID="6c3b717a-ee3f-482f-aa13-945d4cdecd76">
+          <NewValue>0</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6653" ID="1009138" UUID="a74efb90-37ba-4b6e-853f-0c5485c4f5cd">
+          <NewValue>0</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="7752" ID="1009139" UUID="f218c253-888b-42d2-8ef8-931ca81c7eb0">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="11834" ID="1009141" UUID="4acbf169-c193-415b-85a4-301198311a53">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="12458" ID="1009142" UUID="8014b0b4-2131-4688-a990-c2dd1b40277c">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="14084" ID="1009143" UUID="4e3709b1-0ec2-4e7d-957e-584dd41aeded">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60468" ID="1009148" UUID="b03dca2a-50a4-46ad-9df6-86840a724f69">
+          <NewValue>6ebb0b68-5e0b-4652-a644-83fd13f01e3e</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="213698" ID="1009150" UUID="5dc60a7c-2489-4568-bfa0-938a1fcf908a">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="6485" ID="1009136" UUID="f05fafa5-a881-475c-b462-92014377b8b0">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2806" ID="1009123" UUID="d2184749-9171-431f-bcab-36f630ee23cf">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2808" ID="1009125" UUID="90c3e085-27fd-4076-8979-fa015aba0b8a">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2811" ID="1009128" UUID="31c53e78-0b86-402e-9279-3bbb4d1b5718">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="2813" ID="1009129" UUID="3502a2ef-86ed-4fa8-992a-a7c785d6f387">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="3371" ID="1009130" UUID="6c7a3dde-b20d-4e8f-82b5-a73698d2f0ed">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4023" ID="1009131" UUID="df611711-2bb5-4cf9-968d-eb693f362e1e">
+          <NewValue>JPIERE_WYSIWYG_Editor_Process</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4214" ID="1009132" UUID="f3397ac8-5729-415b-b9b3-97a2fec3c3a6">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4374" ID="1009133" UUID="5ce41b14-f4ca-4980-a96a-10ba9647ebec">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="4656" ID="1009134" UUID="8e649314-bdf5-43ad-99d1-fc952c832946">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="11563" ID="1009140" UUID="837ea5aa-d3a4-4077-926b-6eacc8570838">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50181" ID="1009144" UUID="31710920-4e22-4bd5-81ca-d0812f418ba3">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="50182" ID="1009145" UUID="7144464f-f989-47e7-9355-1d3a5d021f7c">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="56515" ID="1009146" UUID="aa0c95e9-ba3d-4935-b80d-223359f6a9ea">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000000</NewID>
+          <OldID>0</OldID>
+          <NewUUID>6ddf1abd-aa03-40af-b381-938640043e08</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="57920" ID="1009147" UUID="a7b9dfdd-34ec-4754-b1b6-d3227cd316ca">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="208592" ID="1009149" UUID="4bc3c5dc-6781-4c40-8eba-d69fb64a7e58">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="213699" ID="1009151" UUID="f7265ee6-1731-43bb-88f8-1adf021fdc38">
+          <NewValue>P</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+      <ODTObjectData AD_Table_ID="200003" ID="1000225" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a250bb48-629c-4adc-8c10-9d2a690bed32" Record_ID="1000000" SeqNo="50" UUID="1c8c91f9-f988-411b-806a-ab25cd52b86f">
+        <Name>
+          <![CDATA[AD_ToolBarButton-1000000]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="200083" ID="1009152" UUID="6079553c-47da-4696-be53-834625294ef4">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200084" ID="1009153" UUID="34270a41-5c7d-4c09-8078-e7cd032a813e">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200086" ID="1009155" UUID="4a4d9577-0973-4a1b-893e-203685379c64">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200088" ID="1009156" UUID="404ec807-7cf2-4e94-991c-d8eb84ae1efc">
+          <NewValue>HTML</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200090" ID="1009158" UUID="b08c4251-2bdf-46d8-8117-817e238c8435">
+          <NewValue>1000000</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200091" ID="1009159" UUID="61cbe175-3bbb-4372-9b4e-9f832118b661">
+          <NewValue>JPIERE WYSIWYG Editor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200092" ID="1009160" UUID="6fcc20e5-efe3-474a-bf8b-846996cbb7aa">
+          <NewValue>2020-02-05 10:25:49</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200095" ID="1009163" UUID="0624f689-40e5-4076-bfa9-7f79c2e1865e">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200096" ID="1009164" UUID="c223bf87-4e5c-4ff0-a9e0-fcabd0e12e9f">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200098" ID="1009166" UUID="89289a1f-c611-43e7-ba8d-e468316e070d">
+          <NewValue>0</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200204" ID="1009167" UUID="91e0d43c-e225-40a8-81d0-6eff9f11975a">
+          <NewValue>a250bb48-629c-4adc-8c10-9d2a690bed32</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200814" ID="1009170" UUID="b4987314-85d1-4ad7-add6-f66d6fb3200d">
+          <NewValue>JPIERE WYSIWYG Editor#@#JPIERE_WYSIWYG_Editor_Process</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>1000008</NewID>
+          <OldID>0</OldID>
+          <NewUUID>6ebb0b68-5e0b-4652-a644-83fd13f01e3e</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200815" ID="1009171" UUID="35119763-d83b-450f-9084-a36db4cf72df">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="210895" ID="1009174" UUID="06aeaca8-aa1a-48ab-9abb-858dd996064c">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="214166" ID="1009176" UUID="0a1126c2-64c6-48df-886c-788a54895027">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200085" ID="1009154" UUID="b0d334b8-d6b4-49d5-9152-e165ca2fe775">
+          <NewValue>2020-02-05 09:31:03</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200089" ID="1009157" UUID="8d344393-6442-4fdf-a06a-e2864b746ab3">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200093" ID="1009161" UUID="700dafaf-a2c6-4b08-95d9-42f0630ec1fd">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200094" ID="1009162" UUID="7544b48b-e8f6-4ca3-bc25-95e6aa2e32e9">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200097" ID="1009165" UUID="fd2008fe-bc89-4b26-95be-8ad5715c9271">
+          <NewValue>0</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200812" ID="1009168" UUID="af323869-f9ad-4372-880e-44c094d8af9b">
+          <NewValue>W</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200813" ID="1009169" UUID="f96d1cfe-2b0a-45b4-9ae5-08b466280fef">
+          <NewValue>Dashboard Content#@#Dashboard Content</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>50010</NewID>
+          <OldID>0</OldID>
+          <NewUUID>4e3abcd9-c5b5-4150-abdc-fde43364e49a</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="200816" ID="1009172" UUID="5ad2b618-b758-4967-a6b8-62fbef15447f">
+          <NewValue>10</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="210880" ID="1009173" UUID="792bcd03-2dff-4da5-b6fe-0e5405343dee">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="213902" ID="1009175" UUID="548b2847-59b6-4143-9f66-307aad2717d4">
+          <NewValue>kbs.plugins.jpiere.wysiwygeditor</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+    </ODTVersion>
+  </ODTPackage>
+</KSYS_IDEMPIERE>
